@@ -1,0 +1,135 @@
+body{
+    background-color:black;
+}
+.mains{
+    text-align: left;
+    padding: 10px;
+    color:black;
+    background-image: url(https://cdn.ttgtmedia.com/rms/onlineimages/code_g1019737194.jpg);
+}
+nav{
+    float: center;
+}
+nav li{
+    list-style: none;
+    display: inline-block;
+    padding:25px;
+}
+nav li a{
+    text-decoration: none;
+    color:white;
+}
+nav li a:hover{
+    color:black;
+}
+nav ul{
+    background-color:rgb(4, 52, 52);
+    margin-top: 5px;
+    width:100%;
+}
+.eg1{
+    color:white;
+    padding:22px;
+    position: fixed;
+   /* background-color: rgb(1, 9, 9);*/
+    text-align: right;
+    font-size: 0.5cm;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    position:absolute;
+}
+.arrows{
+    height: 0.5cm;
+    padding: 0px;
+}
+.ptags{
+    text-align: center;
+    color:white;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  }
+.HW{
+    /*border: 1px solid black;*/
+    text-align: justify;
+    width:500px;
+    padding:15px;
+    margin-left: 100px;
+}
+.SW{
+    /*border: 1px solid black;*/
+    text-align: justify;
+    width:500px;
+    padding:15px;
+    display: block;
+    margin-left: 100px;
+}
+.WORKEXP{
+    /*border:1px solid black;*/
+    padding:10px;
+    background-color:rgb(4, 52, 52);
+    color:white;
+    font-weight: bolder;
+}
+
+.css{
+    display: flex;
+    background-color:rgb(4, 52, 52) ;
+}
+.common{
+    display: flex;
+    background-color:rgb(4, 52, 52);
+}
+#Skills h2{
+    text-align: center;
+}
+#Skills{
+    background-color: rgb(4, 52, 52);
+    padding:8px;
+    font-weight: bolder;
+}
+
+.NonTechSkills{
+    margin-left: 1000px;
+}
+.TechSkills{
+    margin-right: 1000px;
+}
+table,tr,th,td{
+    border:1px solid white;
+    border-collapse: collapse;
+    padding:8px;
+    text-align: center;
+color:white;}
+    #POR{
+        background-color:rgb(4, 52, 52);
+        padding:8px;
+        width:500px;
+        margin-left: 150px;
+    }
+    #contact{
+        border: 1px solid black;
+        width:200px;
+        padding:8px;
+        text-align: center;
+        float:center;
+        background-color:black;
+        background-color: rgb(4, 52, 52);
+        margin-left: 620px;
+    }
+    #EC{
+        color:white;
+        background-color: rgb(4, 52, 52);
+        padding:8px;
+        width: 500px;
+        margin-left: 100px;
+        
+    }
+    .combine{
+        display: flex;
+    }
+    
